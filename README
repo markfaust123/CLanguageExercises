@@ -1,0 +1,41 @@
+This is a README file that outlines everything within this repository.
+
+Within, I have all of the exercises I completed while learning the C programming language.
+
+Topics Include:
+
+Linux
+Editors (emacs)
+Git
+Logical Operators
+Control Flow
+Arrays
+ASCII values
+C strings
+File I/O
+Assert
+Math functions
+Writing functions
+Command line arguments
+Function declarations
+Passing arrays to functions
+Recursion
+Separate compilation
+Makefiles
+Header gaurds
+Multidimensional arrays
+GDB (Debugging)
+Pointers
+Dynamic Memory Allocation
+Valgrind (Memory Leaks)
+Pointer Arithmetic
+Dynamic 2-D Arrays
+Const
+Lifetime/Scope
+Structs
+Random number generation
+Binary file I/O
+Bitwise operations
+Number representation
+Type conversion/casting
+Linked Lists
